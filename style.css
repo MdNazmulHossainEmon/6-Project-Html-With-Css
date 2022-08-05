@@ -82,8 +82,6 @@ img {
   font-size: 17px;
   padding: 0 15px;
 }
-.header-center ul li a:hover {
-}
 .header-right {
   width: 14%;
 }
@@ -138,8 +136,6 @@ img {
 }
 .header-center ul li ul li a {
   display: block;
-}
-.header-center ul li ul li a:hover {
 }
 /* ========================================================= */
 /* ========================= slider ========================= */
@@ -224,8 +220,6 @@ img {
 .service {
   padding: 60px 0;
 }
-.service-title {
-}
 .service-title h1 {
   font-size: 55px;
   font-weight: 800;
@@ -252,7 +246,7 @@ img {
 }
 .service-inner-box span {
   display: inline-block;
-  float: left;
+  float:left;
   color: #6278df;
   font-size: 40px;
   margin-top: -20px;
@@ -281,8 +275,6 @@ img {
   padding-top: 60px;
   padding-bottom: 100px;
 }
-.pricing-table-title {
-}
 .pricing-table-title h1 {
   font-size: 53px;
   margin-bottom: 15px;
@@ -292,8 +284,6 @@ img {
   font-size: 26px;
   font-weight: 300;
   margin-bottom: 65px;
-}
-.pricing-table-box {
 }
 .pricing-table-inner-box {
   width: 31%;
@@ -383,8 +373,6 @@ img {
   font-size: 40px;
   font-weight: 500;
 }
-.team-member {
-}
 .team-inner-member {
   width: 23%;
   margin-right: 2%;
@@ -417,8 +405,6 @@ img {
 .newsletter {
   background-color: #f7f9ff;
   padding: 100px 0;
-}
-.newsletter-title {
 }
 .newsletter-title p {
   color: #767676;
@@ -500,8 +486,6 @@ img {
   width: 300px;
   float: left;
 }
-.blog-content-same-design-caption {
-}
 .blog-content-same-design-caption h4 {
   font-size: 25px;
   margin-bottom: 20px;
@@ -537,8 +521,6 @@ img {
   font-size: 44px;
   font-weight: 500;
   margin-bottom: 80px;
-}
-.user-content {
 }
 .user-inner-content {
   width: 32%;
@@ -609,12 +591,6 @@ img {
 .contact-right {
   width: 48%;
 }
-.contact-left {
-}
-.contact-right {
-}
-.contact-right-title {
-}
 .contact-right-title h4 {
   font-size: 25px;
   font-weight: 500;
@@ -626,8 +602,7 @@ img {
   line-height: 1.8em;
   margin-bottom: 30px;
 }
-.contact-right-form {
-}
+
 .contact-right-form input {
   width: 100%;
   height: 55px;
@@ -664,8 +639,6 @@ img {
   border: 1px solid #ddd;
   box-shadow: 3px 4px 30px 0 rgba(98, 120, 223, 0.2);
 }
-.contact-right-btn {
-}
 .contact-right-btn button {
   background-color: #6278df;
   color: #fff;
@@ -690,8 +663,6 @@ img {
 /* ========================================================= */
 .footer {
   padding-bottom: 25px;
-}
-.footer-title {
 }
 .footer-title p {
   font-size: 20px;
